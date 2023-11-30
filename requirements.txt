@@ -1,0 +1,5 @@
+bitarray==2.8.3
+bitstring==4.1.4
+ifaddr==0.2.0
+lifxlan==1.2.7
+loguru==0.7.2
